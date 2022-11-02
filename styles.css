@@ -1,0 +1,20 @@
+h1{color: red;}
+html{background-color: rgb(0, 0, 0);}
+p{color: aqua;}
+img{width: 150px;
+    background-color: aliceblue;}
+.social{color: blue;
+margin: 0 10px ;}
+.social:hover{color: darkgrey;}
+.you{color: red;
+    margin: 0 10px ;}
+.you:hover{color: darkgrey;}
+.twi{color: lightskyblue;
+    margin: 0 10px ;}
+.twi:hover{color: darkgrey;}
+.insta{color: orangered;
+    margin: 0 10px ;}
+.insta:hover{color: darkgrey;}
+.lin{color: purple;
+    margin: 0 10px ;}
+.lin:hover{color: darkgrey;}
